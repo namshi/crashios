@@ -1,6 +1,6 @@
 # Crashios
 
-Crashdroid - iOS app to test Crash Reporting SDKs
+Crashios - iOS app to test Crash Reporting SDKs
 
 
 
